@@ -12,18 +12,21 @@ MD5 files use an algorithm that is based on the number of bits that a file shoul
 
 #### Solution : 
 Stage_1 (md2): easy
+
 Answer: easy
 
 ### #2 	a58fc871f5f68e4146474ac1e2f07419
 
 #### Solution : 
 Stage_2 (md4): Hello
+
 Answer: Hello
 
 ### #3 	bb779bb4bf8bb3147585ccb9dbf5fb5a
 
 #### Solution : 
 Stage_3 (md5): Hello
+
 Answer: Hello
 
 
