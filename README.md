@@ -81,3 +81,55 @@ Stage_3 (Base32): Microsoft has encryption?
 
 Answer: Microsoft has encryption?
 
+## [Task 4] Level 4
+
+Answers are all case sensitive.
+
+### #1 	961E20B330ECA540288CC8875CEB645A
+
+#### Solution : 
+Stage_1 (NTLM): algorithm
+
+Answer: algorithm
+
+### #2 	62 61 73 65 33 32 20 69 73 20 73 75 70 65 72 20 63 6f 6d 6d 6f 6e 20 69 6e 20 43 54 46 27 73
+
+#### Solution : 
+Stage_2 (Hex): base32 is super common in CTF's
+
+Answer: base32 is super common in CTF's
+
+### #3  01100011 01100001 01101110 00100000 01111001 01101111 01110101 00100000
+        01100011 01100001 01110000 01110100 01110101 01110010 01100101 00100000
+        01110100 01101000 01100101 00100000 01100110 01101100 01100001 01100111 00111111
+
+#### Solution : 
+Stage_3 (Binary): can you capture the flag?
+
+Answer: can you capture the flag?
+
+### #4 	84 104 101 32 79 71
+
+#### Solution : 
+Stage_4 (Decimal): The OG
+
+Answer: The OG
+
+### #5  -.-. --- -- -- --- -. .-.. -.--
+
+        ..- ... . -..
+
+        .. -.
+
+        -... .-.. --- -.-. -.- -.-. .... .- .. -.
+
+
+#### Solution : 
+Stage_5 (Morse Code): Commonly used in Blockchain
+
+Answer: Commonly used in Blockchain
+
+
+
+
+
