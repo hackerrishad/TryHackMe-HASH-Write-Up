@@ -56,4 +56,28 @@ Stage_3 (Sha-512): flag
 
 Answer: flag
 
+## [Task 3] Level 3
+
+In computer science, Base64 is a group of binary-to-text encoding schemes that represent binary data in an ASCII string format by translating it into a radix-64 representation. The term Base64 originates from a specific MIME content transfer encoding. Each Base64 digit represents exactly 6 bits of data.
+
+### #1 	I4YGILKKGBBA====
+
+#### Solution : 
+Stage_1 (Base32): G0d-J0B
+
+Answer: G0d-J0B
+
+### #2 	U3QzZzRuMA==
+
+#### Solution : 
+Stage_2 (Base64): St3g4n0
+
+Answer: St3g4n0
+
+### #3 	JVUWG4TPONXWM5BANBQXGIDFNZRXE6LQORUW63R7
+
+#### Solution : 
+Stage_3 (Base32): Microsoft has encryption?
+
+Answer: Microsoft has encryption?
 
