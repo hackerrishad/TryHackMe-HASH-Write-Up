@@ -4,6 +4,8 @@ CRACK ME
 ## Author
 * [Sheikhrishad](https://tryhackme.com/p/Sheikhrishad)
 
+Personally recommend to use [CyberChef](https://gchq.github.io/CyberChef/) as a tool to solve most of the questions here easier.
+
 ## [Task 1] Level 1
 
 MD5 files use an algorithm that is based on the number of bits that a file should contain. The MD5 file format is used by the IsoBuster CD/DVD copying software to verify the integrity of the copies it creates as well as other software applications.
